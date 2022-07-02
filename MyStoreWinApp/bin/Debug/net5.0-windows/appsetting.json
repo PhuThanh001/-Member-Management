@@ -1,0 +1,10 @@
+{
+  "Email": "admin@fstore.com",
+  "Password": "admin@@",
+  "Role": "Admin",
+  "ConnectionString": {
+    "FStoreDB": "Server=LAPTOP-JDQTLJL4\\PHUTHANH;uid=sa;pwd=1234;database=FStore;TrustServerCertificate=True"
+
+  }
+
+}
