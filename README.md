@@ -11,4 +11,3 @@ Windowsform C# Application to manage members
 ![Manager Window](https://github.com/fepfer-git/member-management/blob/main/Images/Manager%20Window.png)
 ![Update member Window](https://github.com/fepfer-git/member-management/blob/main/Images/Update%20Member%20Window.png)
                     
-#### © 2022 Fepfer
